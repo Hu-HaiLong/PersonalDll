@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Yishimu/Utils.cs">
+    <Files>
+      <File FileName="Yishimu/Utils.cs" Line="52" Column="10" />
+      <File FileName="Yishimu/StateMachine.cs" Line="11" Column="1" />
+      <File FileName="Yishimu/SingleTonMono.cs" Line="1" Column="1" />
+      <File FileName="Yishimu/SingleTon.cs" Line="1" Column="1" />
+      <File FileName="Yishimu/JsonManager.cs" Line="40" Column="58" />
+      <File FileName="Yishimu/InputUtils.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

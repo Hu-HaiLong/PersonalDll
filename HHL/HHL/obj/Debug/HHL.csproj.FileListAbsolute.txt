@@ -1,0 +1,10 @@
+/Users/huhailong/UnityProjects/PersonalDll/Yishimu/Yishimu/bin/Debug/Yishimu.dll
+/Users/huhailong/UnityProjects/PersonalDll/Yishimu/Yishimu/bin/Debug/Yishimu.pdb
+/Users/huhailong/UnityProjects/PersonalDll/Yishimu/Yishimu/obj/Debug/HHL.csproj.CoreCompileInputs.cache
+/Users/huhailong/UnityProjects/PersonalDll/Yishimu/Yishimu/obj/Debug/Yishimu.dll
+/Users/huhailong/UnityProjects/PersonalDll/Yishimu/Yishimu/obj/Debug/Yishimu.pdb
+/Users/huhailong/UnityProjects/PersonalDll/HHL/HHL/obj/Debug/HHL.csproj.CoreCompileInputs.cache
+/Users/huhailong/UnityProjects/PersonalDll/HHL/HHL/bin/Debug/HHL.dll
+/Users/huhailong/UnityProjects/PersonalDll/HHL/HHL/bin/Debug/HHL.pdb
+/Users/huhailong/UnityProjects/PersonalDll/HHL/HHL/obj/Debug/HHL.dll
+/Users/huhailong/UnityProjects/PersonalDll/HHL/HHL/obj/Debug/HHL.pdb
