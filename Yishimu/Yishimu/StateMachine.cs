@@ -1,5 +1,5 @@
 ﻿
-namespace Yishimu
+namespace HHL
 {
     public interface StateMachine
     {

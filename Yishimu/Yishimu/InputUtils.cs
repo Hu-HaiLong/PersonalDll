@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System;
 
-namespace Yishimu
+namespace HHL
 {
     public class InputUtils
     {

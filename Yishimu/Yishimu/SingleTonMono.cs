@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Yishimu
+namespace HHL
 {
     public class SingleTonMono<T> : MonoBehaviour where T : SingleTonMono<T>
     {

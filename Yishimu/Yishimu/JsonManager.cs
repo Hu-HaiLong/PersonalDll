@@ -2,7 +2,7 @@
 using UnityEngine;
 using Newtonsoft.Json;
 
-namespace Yishimu
+namespace HHL
 {
     public class JsonManager : SingleTon<JsonManager>
     {

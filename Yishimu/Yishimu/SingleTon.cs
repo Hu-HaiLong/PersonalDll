@@ -1,5 +1,5 @@
 ﻿
-namespace Yishimu
+namespace HHL
 {
     public class SingleTon<T> where T : class, new()
     {
